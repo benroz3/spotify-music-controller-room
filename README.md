@@ -7,10 +7,10 @@ Spotify Music Controller Room Fullstack app using React, TypeScript, MUI and Dja
 5. Type: 'pip install -r ./requirements.txt'
 6. Type: 'python manage.py runserver'
 
-client side runs on: http://127.0.0.1:8000
-admin side runs on: http://127.0.0.1:8000/admin
-api app runs on: http://127.0.0.1:8000/api
-spotify app runs on: http://127.0.0.1:8000/spotify
+- client side runs on: http://127.0.0.1:8000
+- admin side runs on: http://127.0.0.1:8000/admin
+- api app runs on: http://127.0.0.1:8000/api
+- spotify app runs on: http://127.0.0.1:8000/spotify
 
-- When installing additional packages use: 'pip freeze > ./requirements.txt' (make sure venv is activated)
-- When changing models.py use: 'python manage.py makemigrations' and then 'python manage.py migrate' before running server
++ When installing additional packages use: 'pip freeze > ./requirements.txt' (make sure venv is activated)
++ When changing models.py use: 'python manage.py makemigrations' and then 'python manage.py migrate' before running server
