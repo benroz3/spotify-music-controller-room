@@ -1,4 +1,4 @@
-Spotify Music Controller Room Fullstack app using React, TypeScript, MUI and Django.
+Spotify Music Controller Room Fullstack app using React, TypeScript, MUI, Django and PostgreSQL.
 
 1. Create .env using the example
 2. Open terminal
@@ -12,5 +12,5 @@ Spotify Music Controller Room Fullstack app using React, TypeScript, MUI and Dja
 - api app runs on: http://127.0.0.1:8000/api
 - spotify app runs on: http://127.0.0.1:8000/spotify
 
-+ When installing additional packages use: 'pip freeze > ./requirements.txt' (make sure venv is activated)
-+ When changing models.py use: 'python manage.py makemigrations' and then 'python manage.py migrate' before running server
+* When installing additional packages use: 'pip freeze > ./requirements.txt' (make sure venv is activated)
+* When changing models.py use: 'python manage.py makemigrations' and then 'python manage.py migrate' before running server
